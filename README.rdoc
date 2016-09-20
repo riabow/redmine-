@@ -1,4 +1,15 @@
+
+
 = Redmine
+
+I change the Redmine project ^
+1) add new field "dep" to users table 
+2) show it in user table and ability to edit this field
+3) translation made only for russian languige
+
+
+
+
 
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
